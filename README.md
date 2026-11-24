@@ -3,3 +3,26 @@ Daily Reports Analysis and Performance Monitoring Dashboard
 Project Objective
 
 The main objective of this project is to analyze daily business reports and monitor overall performance using Power BI. The project aims to consolidate multiple Excel and CSV files into a single master dataset, perform data cleaning and transformation, track key performance indicators (KPIs), identify daily and monthly trends, and generate meaningful insights to support better business decision-making.
+
+KPI questions for your project
+1. What is the total sales amount?
+2. What is the total number of transactions?
+3. What is the total quantity sold?
+4. What is the average sales amount per transaction?
+5. What is the total number of products sold?
+6. Which product generates the highest sales?
+7. Which day has the highest sales?
+8. What is the daily sales performance?
+9. What is the monthly sales trend?
+10. Which products have the lowest sales?
+
+KPI Development Process
+1. Data Collection: Collected multiple daily reports in CSV and Excel formats.
+2. Data Cleaning: Removed duplicates, handled missing values, and corrected data types using Power Query.
+3. Data Consolidation: Combined multiple files into a single master dataset.
+4. KPI Identification: Identified key metrics such as Total Sales, Total Transactions, Total Quantity, and Average Sales.
+5. DAX Calculations: Created measures to calculate important KPIs.
+6. Visualization: Used Card visuals to display KPI values.
+7. Interactive Analysis: Added date and product slicers to filter and analyze data.
+8. Validation: Verified KPI results for accuracy.
+Outcome: Created an interactive Power BI dashboard to monitor daily business performance and generate meaningful insights.
