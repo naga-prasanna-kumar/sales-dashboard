@@ -27,6 +27,8 @@ KPI Development Process
 8. Validation: Verified KPI results for accuracy.
 Outcome: Created an interactive Power BI dashboard to monitor daily business performance and generate meaningful insights.
 
+https://github.com/naga-prasanna-kumar/sales-dashboard/commit/ac123336e1371692ffb1c27745a5d98ac4ccf6c6
+
 Project Insights
 - Identified overall daily business performance through KPI analysis.
 - Analyzed sales trends across different dates.
