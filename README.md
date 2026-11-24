@@ -26,3 +26,12 @@ KPI Development Process
 7. Interactive Analysis: Added date and product slicers to filter and analyze data.
 8. Validation: Verified KPI results for accuracy.
 Outcome: Created an interactive Power BI dashboard to monitor daily business performance and generate meaningful insights.
+
+Project Insights
+- Identified overall daily business performance through KPI analysis.
+- Analyzed sales trends across different dates.
+- Identified top-performing and low-performing products.
+- Monitored transaction volume and quantity sold.
+- Used interactive slicers to compare performance across different periods.
+Project Conclusion
+Successfully developed an interactive Daily Reports Dashboard using Power BI. Multiple Excel and CSV files were consolidated, cleaned, and transformed into a master dataset. The dashboard provides a clear view of business performance through KPIs and visualizations, helping users analyze trends and make data-driven decisions.
