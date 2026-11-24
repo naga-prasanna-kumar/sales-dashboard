@@ -28,6 +28,8 @@ KPI Development Process
 Outcome: Created an interactive Power BI dashboard to monitor daily business performance and generate meaningful insights.
 
 https://github.com/naga-prasanna-kumar/sales-dashboard/commit/ac123336e1371692ffb1c27745a5d98ac4ccf6c6
+<img width="752" height="733" alt="image" src="https://github.com/user-attachments/assets/6359d0c6-2b28-406a-998b-b8507e5f5345" />
+
 
 Project Insights
 - Identified overall daily business performance through KPI analysis.
