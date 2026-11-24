@@ -37,5 +37,6 @@ Project Insights
 - Identified top-performing and low-performing products.
 - Monitored transaction volume and quantity sold.
 - Used interactive slicers to compare performance across different periods.
-Project Conclusion
+
+  Project Conclusion
 Successfully developed an interactive Daily Reports Dashboard using Power BI. Multiple Excel and CSV files were consolidated, cleaned, and transformed into a master dataset. The dashboard provides a clear view of business performance through KPIs and visualizations, helping users analyze trends and make data-driven decisions.
